@@ -1,6 +1,6 @@
 # [Ashutosh Kumar Sah](https://ashutoshk.vision)
  Java | Python | C++ | HTML | CSS | ML | DevOps | Hybrid Cloud | Flutter | Ansible | Kubernetes | Terraform 
-<img src="https://media-exp1.licdn.com/dms/image/C4E16AQGqpE5iukAAhg/profile-displaybackgroundimage-shrink_350_1400/0/1605892565295?e=1613606400&v=beta&t=P753GZCoAjrkik6bqiBN_LaZkUzUJCxykWvNLCdauDA">
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQGiu5U6CPk7vg/profile-displaybackgroundimage-shrink_350_1400/0/1612420270984?e=1618444800&v=beta&t=cenYeyL75g7ZDQAIONRGlyTYcS-0Y44qInKUslKIGaI">
 
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
@@ -14,7 +14,7 @@
 [<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
 <br />
 <hr />
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="477e7e1a-cd65-4c20-af52-13bc7a172254" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+
 
 
  
