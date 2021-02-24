@@ -1,6 +1,6 @@
 # [Ashutosh Kumar Sah](https://ashutoshk.vision)
  Java | Python | C++ | HTML | CSS | ML | DevOps | Hybrid Cloud | Flutter | Ansible | Kubernetes | Terraform 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fashutosh.kumarsah.3344%2Fposts%2F737486793827048&width=500&show_text=true&height=287&appId" width="500" height="287" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<img src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fashutosh.kumarsah.3344%2Fposts%2F737486793827048&width=500&show_text=true&height=287&appId" width="500" height="287" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"/>
 
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
