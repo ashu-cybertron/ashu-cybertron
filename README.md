@@ -4,11 +4,10 @@
 <img height="250" width="250" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/introduction-to-cybersecurity.png"/>
 <img height="250" width="250" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/machine-learning-with-python-level-1.png"/>
 <img height="250" width="250" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/data-science-foundations-level-1.png"/>
-[<img height="250" width="250" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/python-for-data-science.png"/>][Data Science,IBM]
+<img height="250" width="250" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/python-for-data-science.png"/>
 <img height="250" width="250" src="https://cdn.qwiklabs.com/t0mAYb9dBpyuPWwHBFQSo2aYPkq3SwYA3%2FaR51UWM94%3D"/>
-<img height="250" width="250" src=""/>
-<img height="250" width="250" src=""/>
-<img height="250" width="250" src=""/>
+<img height="250" width="250" src="https://cdn.qwiklabs.com/81BP4Qgr%2Br7CQ%2BsKsLCyFO2SRnbWSpE40gBfjP%2BelYk%3D"/>
+
 
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
