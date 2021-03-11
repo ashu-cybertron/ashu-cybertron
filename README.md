@@ -13,7 +13,7 @@
     </td>
  </tr>
  <tr>
-     <td style="align:center">
+     <td>&emsp;&emsp;
       <img height="250" width="250" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/data-science-foundations-level-1.png"/>
     </td>
     <td>
@@ -24,7 +24,7 @@
     </td>
  </tr>
  <tr>
-     <td>
+     <td>&emsp;&emsp;
       <img height="250" width="250" src="https://cdn.qwiklabs.com/GHzcYBb00JYUF9Rgf3D9A4inwRHYnFtISMvcRlb%2FClU%3D"/>
     </td>
     <td>
