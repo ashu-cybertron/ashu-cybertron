@@ -2,6 +2,9 @@
  DevOps | Hybrid Cloud | Flutter | Ansible | Kubernetes | Terraform | Java | Python | C++ | HTML | CSS | ML 
 <img height="265" width="320" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/aviatrix-certified-engineer-multi-cloud-network-associate%20(3).png"/>
 <img height="250" width="250" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/introduction-to-cybersecurity.png"/>
+<img height="250" width="250" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/machine-learning-with-python-level-1.png"/>
+<img height="250" width="250" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/data-science-foundations-level-1.png"/>
+<img height="250" width="250" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/python-for-data-science.png"/>
 
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
