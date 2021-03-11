@@ -13,7 +13,7 @@
     </td>
  </tr>
  <tr>
-     <td>
+     <td>&emsp;
       <img height="250" width="250" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/data-science-foundations-level-1.png"/>
     </td>
     <td>
