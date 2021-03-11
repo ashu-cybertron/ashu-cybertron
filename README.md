@@ -1,11 +1,40 @@
 # [Ashutosh Kumar Sah](https://ashutoshk.vision)
  DevOps | Hybrid Cloud | Flutter | Ansible | Kubernetes | Terraform | Java | Python | C++ | HTML | CSS | ML 
-<img height="265" width="320" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/aviatrix-certified-engineer-multi-cloud-network-associate%20(3).png"/>
-<img height="250" width="250" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/introduction-to-cybersecurity.png"/>
-<img height="250" width="250" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/machine-learning-with-python-level-1.png"/>
-&emsp; &emsp; <img height="250" width="250" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/data-science-foundations-level-1.png"/>
-<img height="250" width="250" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/python-for-data-science.png"/>
-<img height="250" width="250" src="https://cdn.qwiklabs.com/t0mAYb9dBpyuPWwHBFQSo2aYPkq3SwYA3%2FaR51UWM94%3D"/>
+ <table>
+ <tr>
+     <td>
+        <img height="265" width="320" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/aviatrix-certified-engineer-multi-cloud-network-associate%20(3).png"/>
+    </td>
+    <td>
+        <img height="250" width="250" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/introduction-to-cybersecurity.png"/>
+    </td>
+    <td>
+      <img height="250" width="250" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/machine-learning-with-python-level-1.png"/>
+    </td>
+ </tr>
+ <tr>
+     <td>
+      <img height="250" width="250" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/data-science-foundations-level-1.png"/>
+    </td>
+    <td>
+      <img height="250" width="250" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/python-for-data-science.png"/>
+    </td>
+    <td>
+      <img height="250" width="250" src="https://cdn.qwiklabs.com/t0mAYb9dBpyuPWwHBFQSo2aYPkq3SwYA3%2FaR51UWM94%3D"/>
+    </td>
+ </tr>
+ <tr>
+     <td>
+      <img height="250" width="250" src="https://cdn.qwiklabs.com/GHzcYBb00JYUF9Rgf3D9A4inwRHYnFtISMvcRlb%2FClU%3D"/>
+    </td>
+    <td>
+      <img height="250" width="250" src="https://cdn.qwiklabs.com/oNvzn%2FpkbZ6t3yxEEhsB3nIRNFnRF%2B0GMISRREnck%2Fs%3D"/>
+    </td>
+    <td>
+      <img height="250" width="250" src="https://cdn.qwiklabs.com/xZavqH5WyvMvnACHEpB9r%2FV9qg7J4LHuCY4ckYBQBLQ%3D"/>
+    </td>
+ </tr>
+</table>
 
 
 <p align="center">
