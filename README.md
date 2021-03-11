@@ -1,9 +1,9 @@
 # [Ashutosh Kumar Sah](https://ashutoshk.vision)
  Java | Python | C++ | HTML | CSS | ML | DevOps | Hybrid Cloud | Flutter | Ansible | Kubernetes | Terraform 
 <img src="https://scontent.fpat2-1.fna.fbcdn.net/v/t1.0-9/s960x960/153884151_737486687160392_387163151706230958_o.jpg?_nc_cat=102&ccb=3&_nc_sid=e3f864&_nc_ohc=FjIgtmiGsxIAX8uhhA5&_nc_ht=scontent.fpat2-1.fna&tp=7&oh=059a8e42067dafe3b03a0dc467b9fe35&oe=605B90AF"/>
-<br/>
-<img height="250" width="150" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/aviatrix-certified-engineer-multi-cloud-network-associate%20(3).png"/>
-<img height="250" width="150" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/introduction-to-cybersecurity.png"/>
+<br/> <br/>
+<img height="250" width="250" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/aviatrix-certified-engineer-multi-cloud-network-associate%20(3).png"/>
+<img height="250" width="250" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/introduction-to-cybersecurity.png"/>
 
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
