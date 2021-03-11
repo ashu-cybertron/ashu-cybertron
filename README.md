@@ -1,6 +1,5 @@
 # [Ashutosh Kumar Sah](https://ashutoshk.vision)
- Java | Python | C++ | HTML | CSS | ML | DevOps | Hybrid Cloud | Flutter | Ansible | Kubernetes | Terraform 
-
+ DevOps | Hybrid Cloud | Flutter | Ansible | Kubernetes | Terraform | Java | Python | C++ | HTML | CSS | ML 
 <img height="280" width="300" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/aviatrix-certified-engineer-multi-cloud-network-associate%20(3).png"/>
 <img height="250" width="250" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/introduction-to-cybersecurity.png"/>
 
