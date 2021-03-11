@@ -1,11 +1,8 @@
 # [Ashutosh Kumar Sah](https://ashutoshk.vision)
  Java | Python | C++ | HTML | CSS | ML | DevOps | Hybrid Cloud | Flutter | Ansible | Kubernetes | Terraform 
 <img src="https://scontent.fpat2-1.fna.fbcdn.net/v/t1.0-9/s960x960/153884151_737486687160392_387163151706230958_o.jpg?_nc_cat=102&ccb=3&_nc_sid=e3f864&_nc_ohc=FjIgtmiGsxIAX8uhhA5&_nc_ht=scontent.fpat2-1.fna&tp=7&oh=059a8e42067dafe3b03a0dc467b9fe35&oe=605B90AF"/>
-<img height="50" src="https://www.youracclaim.com/badges/68dc9baf-ea05-4c15-846c-c045913a2c97/public_url"/>
-<img height="50" src="https://www.youracclaim.com/badges/df718ed8-6185-4a1a-a436-844910355498/public_url"/>
-<img height="50" src="https://www.youracclaim.com/badges/fe5c6acb-71a1-45d0-a6b2-24d79b478076/public_url"/>
-<img height="50" src="https://www.youracclaim.com/badges/ec642b04-2317-4409-917f-d52164426e4e/public_url"/>
-<img height="50" src="https://www.youracclaim.com/badges/9ad04648-d58b-46c0-b09a-9d1f84751a4c/public_url"/>
+
+<img src="https://drive.google.com/file/d/1xK2aLPRZ0kSf6mu9yDSa4kEKEKCEkihw/view?usp=drivesdk"/>
 <img src=""/>
 <img src=""/>
 
