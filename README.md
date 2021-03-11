@@ -5,7 +5,7 @@
  <table>
  <tr>
      <td>
-        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="68dc9baf-ea05-4c15-846c-c045913a2c97" data-share-badge-host="https://www.youracclaim.com">     </div>
+       
     </td>
     <td>
         <img height="250" width="250" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/introduction-to-cybersecurity.png"/>
