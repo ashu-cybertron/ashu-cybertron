@@ -14,31 +14,29 @@
     <td>
       <img height="250" width="250" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/machine-learning-with-python-level-1.png"/>
     </td>
- </tr>
- <tr>
-     <td>&emsp;&emsp;
+    <td>
       <img height="250" width="250" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/data-science-foundations-level-1.png"/>
     </td>
-    <td>
+ </tr>
+ <tr>
+    <td>&emsp;&emsp;
       <img height="250" width="250" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/python-for-data-science.png"/>
     </td>
     <td>
       <img height="250" width="250" src="https://cdn.qwiklabs.com/t0mAYb9dBpyuPWwHBFQSo2aYPkq3SwYA3%2FaR51UWM94%3D"/>
     </td>
- </tr>
- <tr>
-     <td>&emsp;&emsp;
+  <td>
       <img height="250" width="250" src="https://cdn.qwiklabs.com/PU2aesDs1f6vq2e%2FgSWvkIn%2Bq8i3yQYu3CTj3S9pjKI%3D"/>
     </td>
     <td>
       <img height="250" width="250" src="https://cdn.qwiklabs.com/81BP4Qgr%2Br7CQ%2BsKsLCyFO2SRnbWSpE40gBfjP%2BelYk%3D"/>
     </td>
-    <td>
+ </tr>
+ <tr>
+    <td>&emsp;&emsp;
       <img height="250" width="250" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/introduction-to-iot.png"/>
     </td>
- </tr>
-  <tr>
-    <td>&emsp;&emsp;
+    <td>
       <img height="250" width="250" src="https://cdn.qwiklabs.com/Ry5LS6MVOIz7HfXIfPPajYsPjV7hlCEIXAwcccFGh%2F8%3D"/>
     </td>
     <td>
