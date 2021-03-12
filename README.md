@@ -28,7 +28,7 @@
  </tr>
  <tr>
      <td>&emsp;&emsp;
-      <img height="250" width="250" src="https://cdn.qwiklabs.com/GHzcYBb00JYUF9Rgf3D9A4inwRHYnFtISMvcRlb%2FClU%3D"/>
+      <img height="250" width="250" src="https://cdn.qwiklabs.com/PU2aesDs1f6vq2e%2FgSWvkIn%2Bq8i3yQYu3CTj3S9pjKI%3D"/>
     </td>
     <td>
       <img height="250" width="250" src="https://cdn.qwiklabs.com/81BP4Qgr%2Br7CQ%2BsKsLCyFO2SRnbWSpE40gBfjP%2BelYk%3D"/>
@@ -42,7 +42,7 @@
       <img height="250" width="250" src="https://cdn.qwiklabs.com/Ry5LS6MVOIz7HfXIfPPajYsPjV7hlCEIXAwcccFGh%2F8%3D"/>
     </td>
     <td>
-      <img height="250" width="250" src="https://cdn.qwiklabs.com/oNvzn%2FpkbZ6t3yxEEhsB3nIRNFnRF%2B0GMISRREnck%2Fs%3D"/>
+      <img height="250" width="250" src="https://cdn.qwiklabs.com/Ry5LS6MVOIz7HfXIfPPajYsPjV7hlCEIXAwcccFGh%2F8%3D"/>
     </td>
     <td>
       <img height="250" width="250" src="https://cdn.qwiklabs.com/xZavqH5WyvMvnACHEpB9r%2FV9qg7J4LHuCY4ckYBQBLQ%3D"/>
