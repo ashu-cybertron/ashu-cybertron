@@ -38,7 +38,7 @@
     </td>
  </tr>
   <tr>
-    <td>
+    <td>&emsp;&emsp;
       <img height="250" width="250" src="https://cdn.qwiklabs.com/Ry5LS6MVOIz7HfXIfPPajYsPjV7hlCEIXAwcccFGh%2F8%3D"/>
     </td>
     <td>
