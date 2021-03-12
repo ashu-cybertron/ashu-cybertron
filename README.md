@@ -54,8 +54,8 @@
 <hr />
 
 
-
- 
+* DevOps Engineer at TeqFocus.
+* Aviatrix Certified Engineer.
 * Primary coding language: Java.
 * I’m currently working on my [portfolio](https://ashutoshk.vision).
 * I am certified in Docker
