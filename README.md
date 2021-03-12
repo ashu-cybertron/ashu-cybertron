@@ -5,7 +5,7 @@
  <table>
  <tr>
      <td>
-       
+       <img height="265" width="300" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/aviatrix-certified-engineer-multi-cloud-network-associate%20(3).png"/>
     </td>
     <td>
         <img height="250" width="250" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/introduction-to-cybersecurity.png"/>
