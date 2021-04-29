@@ -109,6 +109,7 @@ Check out my latest videos on [YouTube](https://www.youtube.com/channel/UCkhTgPX
 <table><tr><td valign="top" width="50%">
  
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 [twitter]: https://twitter.com/Ashutoshanand01
 [youtube]: https://www.youtube.com/channel/UCkhTgPXFcuUbbMzEjhQSFXg
