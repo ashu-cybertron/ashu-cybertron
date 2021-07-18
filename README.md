@@ -105,8 +105,7 @@ Check out my latest videos on [YouTube](https://www.youtube.com/channel/UCkhTgPX
  
  
  
- ![Metrics](https://metrics.lecoq.io/ashu-cybertron?template=classic&followup=1&isocalendar=1&languages=1&pagespeed=1&posts=1&projects=1&stars=1&tweets=1&pagespeed.detailed=true&pagespeed.screenshot=true&posts.limit=4&posts.source=dev.to&isocalendar.duration=half-year&projects.limit=4&tweets.limit=2&stars.limit=4&config.timezone=Asia%2FCalcutta)
-<table><tr><td valign="top" width="50%">
+
  
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
