@@ -111,18 +111,10 @@ You can find my blogs at my [Website](https://techsfortalk.me).
 Check out my latest videos on [YouTube](https://www.youtube.com/channel/UCkhTgPXFcuUbbMzEjhQSFXg):
 
 
- <details>
-<summary>📊 Github Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ashu-cybertron&show_icons=true&theme=gotham" alt="Ashutosh Kumar Sah | Stats" />
-
-</details>
+![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashu-cybertron&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fashu-cybertron%2Fashu-cybertron&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fashu-cybertron%2Fashu-cybertron&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false"/></a>
- 
 
  
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
