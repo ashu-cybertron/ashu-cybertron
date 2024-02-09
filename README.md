@@ -1,4 +1,5 @@
 # [Ashutosh Kumar Sah](https://ashu-cybertron.github.io)
+ DevOps | Hybrid Cloud | Flutter | Ansible | Kubernetes | Terraform | Java | Python | C++ | HTML | CSS | ML
 **DevOps Services:**
 
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
@@ -15,9 +16,6 @@
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashu-cybertron&theme=darkhub&column=10)](https://github.com/ryo-ma/github-profile-trophy)
-
- DevOps | Hybrid Cloud | Flutter | Ansible | Kubernetes | Terraform | Java | Python | C++ | HTML | CSS | ML
- <img src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/github-skyline.jpg"/>
  
  ## [Earned Badges](https://www.qwiklabs.com/public_profiles/a9509ee2-4bc1-4a29-802d-cb18e02a2d36)
  <table>
