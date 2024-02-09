@@ -123,8 +123,6 @@ Check out my latest videos on [YouTube](https://www.youtube.com/channel/UCkhTgPX
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fashu-cybertron%2Fashu-cybertron&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false"/></a>
  
- 
- [![Ashutosh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashu-cybertron&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
