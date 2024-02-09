@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="Screenshot 2024-02-09 155714.png" alt="Ashutosh Kumar Sah" />
+</h1>
+
 # [Ashutosh Kumar Sah](https://ashu-cybertron.github.io)
 ### DevOps | Hybrid Cloud | Flutter | Ansible | Kubernetes | Terraform | Java | Python | C++ | HTML | CSS | ML
  
