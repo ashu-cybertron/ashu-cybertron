@@ -130,6 +130,6 @@ Check out my latest videos on [YouTube](https://www.youtube.com/channel/UCkhTgPX
 [youtube]: https://www.youtube.com/channel/UCkhTgPXFcuUbbMzEjhQSFXg
 [Hashnode]: https://hashnode.com/@ashutoshk
 [gmail]: https://gmail.com
-[linkedin]: https://www.linkedin.com/in/ashutosh_k1/
-[Medium]: https://ashutosh-k.medium.com/
+[linkedin]: https://www.linkedin.com/in/ashutosh-k1/
+[Medium]: https://ashutosh-k1.medium.com/
 [Facebook]: https://www.facebook.com/ashutosh.kumarsah.3344/
