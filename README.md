@@ -94,7 +94,7 @@
 💬 Ask me about : DEvOps , Cloud , Machine Learning ,  Ansible  , Flutter & anything, I'll be happy to help<br>
 ⚡ Fun fact: ... COding , Reading , Guitar , Chess , Singing , Listening music.<br>
 * 😄 Pronouns: He/him
-* Join my [Discord server](https://discord.gg/KAcCCUXqTY) | [Telegram Channel](https://t.me/techsfortalk)
+* Join my [Discord server](https://discord.gg/KAcCCUXqTY) | [Telegram Channel](https://t.me/sah_ashutosh_kumar)
 * 🏠 Hogwarts House: Griffindor
 
 
