@@ -14,7 +14,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashu-cybertron&theme=darkhub&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashu-cybertron&theme=darkhub&column=10)](https://github.com/ryo-ma/github-profile-trophy)
 
  DevOps | Hybrid Cloud | Flutter | Ansible | Kubernetes | Terraform | Java | Python | C++ | HTML | CSS | ML
  <img src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/github-skyline.jpg"/>
