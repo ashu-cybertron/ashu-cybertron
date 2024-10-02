@@ -87,12 +87,12 @@
 * DevOps Engineer at TeqFocus.
 * Aviatrix Certified Engineer.
 * Primary coding language: Java.
-* I’m currently working on my [portfolio](https://ashutoshk.vision).
+* I’m currently working on my [portfolio](https://ashu-cybertron.github.io).
 * I am certified in Docker
 * I'm looking to collaborate on Open source projects.
 * Competitive Programmer 
-🔭 I’m currently working on : Java , Python, Docker , Kubernetes , Jenkins , AWS , GCP , FLutter , Ansible ,  <br>
-🌱 I’m currently learning :  Web development , Ansible , Flutter .<br>
+🔭 I’m currently working on : Java, Python, Docker, Kubernetes, Jenkins, AWS, Azure, GCP, Ansible,  <br>
+🌱 I’m currently learning :  Latest DevOps Tools, Ansible , Flutter .<br>
 👯 I’m looking to collaborate on : <br>*/
 🤔 I’m looking for help with : new Job / Internship opportunity<br>
 💬 Ask me about : DEvOps , Cloud , Machine Learning ,  Ansible  , Flutter & anything, I'll be happy to help<br>
